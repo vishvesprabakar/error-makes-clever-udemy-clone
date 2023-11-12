@@ -25,7 +25,7 @@ Welcome to my portfolio website project! This site is a showcase of my skills an
 
 ## How to Use
 
-Simply navigate to [https://vishvesprabakar.github.io/error-makes-clever-portfolio/] to explore my work and learn more about me.
+Simply navigate to [https://vishvesprabakar.github.io/error-makes-clever-udemy-clone/] to explore my work and learn more about me.
 
 ## Contributing
 
